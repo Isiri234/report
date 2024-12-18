@@ -1,8 +1,15 @@
 #include<stdio.h>
 int main()
 {
+<<<<<<< HEAD
 int a=10,b=20;
 int sum;
 sum=a+b;
 printf(sum);
+=======
+int a=20,b=10;
+int sub;
+sub=a-b;
+printf(sub);
+>>>>>>> bhoomika
 }
