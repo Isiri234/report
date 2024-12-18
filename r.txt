@@ -1,15 +1,27 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> chinmayi
 #include<stdio.h>
 int main()
 {
 <<<<<<< HEAD
 int a=10,b=20;
+<<<<<<< HEAD
 int sum;
 sum=a+b;
 printf(sum);
 =======
+<<<<<<< HEAD
 int a=20,b=10;
 int sub;
 sub=a-b;
 printf(sub);
 >>>>>>> bhoomika
+=======
+int div;
+div=a/b;
+printf(div);
+>>>>>>> chinmayi
+>>>>>>> e4e72bb6d2e286163647fcf35ceb1c151a6a18aa
 }
