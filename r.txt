@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main()
 {
@@ -6,4 +7,42 @@ int b=5;
 int mod;
 mod=a%b;
 printf(mod);
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> chinmayi
+#include<stdio.h>
+<<<<<<< HEAD
+int main()
+{
+<<<<<<< HEAD
+int a=10,b=20;
+<<<<<<< HEAD
+int sum;
+sum=a+b;
+printf(sum);
+=======
+<<<<<<< HEAD
+int main{
+int a=20,b=10;
+int mul;
+mul=a*b;
+printf(mul);
+>>>>>>> kanmani
+=======
+<<<<<<< HEAD
+int a=20,b=10;
+int sub;
+sub=a-b;
+printf(sub);
+>>>>>>> bhoomika
+=======
+int div;
+div=a/b;
+printf(div);
+>>>>>>> chinmayi
+>>>>>>> e4e72bb6d2e286163647fcf35ceb1c151a6a18aa
+>>>>>>> 664a27edba1e51dd44517610620375cfe97cf23e
+>>>>>>> 6b10cec1516fe87c033520b9d04f3331015d463f
 }
